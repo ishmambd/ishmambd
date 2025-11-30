@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Ishmam Jinan
 
-<!--
-**ishmambd/ishmambd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Macquarie University
+📚 Bachelor of Civil Engineering (Honours)
+🌏 From Bangladesh | 🇦🇺 Studying in Sydney  
+📩 Contact: mdishmam.jinan@students.mq.edu.au
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Interests
+- C Programming  
+- Python Programming  
+- Processing (visual sketches)  
+- Basic algorithms & logic building  
+- Civil & Structural Engineering  
+- CAD, design fundamentals (learning)  
+- Physics & engineering problem solving  
+
+---
+
+## 📂 My Repositories
+Here are some of the projects I’m working on:
+
+### 🔹 C Programming Practice  
+Beginner-friendly C programs: loops, arrays, functions, calculators, converters, etc.
+
+### 🔹 Python Practice Projects  
+Small Python projects built while learning Python basics.
+
+### 🔹 Processing Visual Projects  
+Creative sketches and animations using the Processing environment.
+
+---
+
+## 🤝 Connect With Me
+- GitHub: github.com/ishmambd 
+- LinkedIn: www.linkedin.com/in/mdishmamjinan
+
+---
+
+Thanks for visiting my profile! 🚀  
