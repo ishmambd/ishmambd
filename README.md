@@ -33,7 +33,7 @@ Creative sketches and animations using the Processing environment.
 ---
 
 ## 🤝 Connect With Me
-- GitHub: github.com/ishmambd 
+- GitHub: www.github.com/ishmambd 
 - LinkedIn: www.linkedin.com/in/mdishmamjinan
 
 ---
