@@ -61,16 +61,6 @@ Additional tools: **VS Code**, **BlueJ**
 
 ---
 
-## 📊 GitHub Stats
-
-![Ishmam's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishmambd&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishmambd&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ishmambd&theme=tokyonight)
-
----
-
 ## 📬 Contact
 
 - 📧 E-mail: **mdishmam.jinan@students.mq.edu.au**  
