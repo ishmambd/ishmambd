@@ -71,22 +71,6 @@ Additional tools:**VS Code**, **BlueJ**, **PyCharm**, **NumPy**, **Matplotlib**
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=6"/>
-</p>
-
----
-
 ## 📬 Contact
 
 - 📧 Personal: **ishmameducation@gmail.com**  
