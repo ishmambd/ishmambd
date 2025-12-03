@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Ishmam Jinan</h1>
-<h3 align="center">Civil Engineering Student at Macquarie University | Future Structural/AI Engineer</h3>
+<h3 align="center">Civil Engineering Student at Macquarie University | Future Civil Engineer</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 💡 Interested in **Structural Engineering**, **Surveying**, **Construction Technology**, and **AI for Engineering**
 - 💻 I develop projects in **Processing**, **C**, and **Python**
 - 🎯 Goal: Become a high-performing engineer with strong computational and technical skills  
-- ✨ Currently preparing for **MATLAB**, **AutoCAD**, **Revit**, and **Python for engineering**
+- ✨ Currently preparing for **MATLAB**, **AutoCAD**, **Revit**, **CIVIL3D** and **Python for engineering**
 
 ---
 
@@ -52,8 +52,7 @@ Additional tools: **Processing**, **VS Code**, **BlueJ**, **PyCharm**, **NumPy**
 
 ### 🔹 **3. Python Projects**
 - Beginner data processing  
-- Simple scripts  
-- Math/physics problem solvers  
+- Simple scripts   
 - Future: ML for engineering!
 
 ---
