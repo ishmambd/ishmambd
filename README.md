@@ -73,7 +73,7 @@ Additional tools: **VS Code**, **BlueJ**
 
 ## 📬 Contact
 
-- 📧 Personal: **ishmameducation@gmail.com**  
+- 📧 E-mail: **mdishmam.jinan@students.mq.edu.au**  
 - 🌏 LinkedIn: **www.linkedin.com/in/mdishmamjinan**  
 - ✨ Always learning, always improving!
 
