@@ -54,8 +54,7 @@ Additional tools: **VS Code**, **BlueJ**
 - calculator programs  
 - Temperature & unit conversion tools  
 
-### 🔹 **3. Python Projects**
-- Beginner data processing  
+### 🔹 **3. Python Projects**  
 - Simple scripts   
 - Future: ML for engineering!
 
