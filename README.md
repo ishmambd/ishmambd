@@ -36,7 +36,7 @@
   <!-- AutoCAD -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="50"/>
 
-Additional tools: **VS Code**, **BlueJ**, **PyCharm**, **NumPy**, **Matplotlib**
+Additional tools: **VS Code**, **BlueJ**
 
 ---
 
@@ -51,7 +51,7 @@ Additional tools: **VS Code**, **BlueJ**, **PyCharm**, **NumPy**, **Matplotlib**
 ### 🔹 **2. C Programming Projects**
 - Basic algorithms  
 - Loops, arrays, operators  
-- Engineering calculator programs  
+- calculator programs  
 - Temperature & unit conversion tools  
 
 ### 🔹 **3. Python Projects**
