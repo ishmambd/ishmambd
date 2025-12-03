@@ -1,41 +1,85 @@
-# 👋 Hi, I'm Md Ishmam Jinan
-
-🎓 Student at Macquarie University
-📚 Bachelor of Civil Engineering (Honours)
-🌏 From Bangladesh | 🇦🇺 Studying in Sydney  
-📩 Contact: mdishmam.jinan@students.mq.edu.au
+<h1 align="center">Hi 👋, I'm Md Ishmam Jinan</h1>
+<h3 align="center">Civil Engineering Student at Macquarie University | Future Structural/AI Engineer</h3>
 
 ---
 
-## 🛠 Skills & Interests
-- C Programming  
-- Python Programming  
-- Processing (visual sketches)  
-- Basic algorithms & logic building  
-- Civil & Structural Engineering  
-- CAD, design fundamentals (learning)  
-- Physics & engineering problem solving  
+## 🏗️ About Me
+- 🎓 **Bachelor of Engineering (Honours) – Civil Engineering**, Macquarie University  
+- 💡 Interested in **Structural Engineering**, **Surveying**, **Construction Technology**, and **AI for Engineering**
+- 💻 I develop projects in **Processing**, **C**, and **Python**
+- 🎯 Goal: Become a high-performing engineer with strong computational and technical skills  
+- ✨ Currently preparing for **MATLAB**, **AutoCAD**, **Revit**, and **Python for engineering**
 
 ---
 
-## 📂 My Repositories
-Here are some of the projects I’m working on:
+## 🔨 Engineering + Coding Skills
 
-### 🔹 C Programming Practice  
-Beginner-friendly C programs: loops, arrays, functions, calculators, converters, etc.
+### 🧭 Civil Engineering / Technical
+- Engineering Mathematics  
+- Physics & Mechanics  
+- AutoCAD (beginner)  
+- Surveying Concepts  
+- Structural concepts (intro)  
 
-### 🔹 Python Practice Projects  
-Small Python projects built while learning Python basics.
+### 💻 Programming & Tools
 
-### 🔹 Processing Visual Projects  
-Creative sketches and animations using the Processing environment.
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+</p>
+
+Additional tools: **Processing**, **VS Code**, **BlueJ**, **PyCharm**, **NumPy**, **Matplotlib**
 
 ---
 
-## 🤝 Connect With Me
-- GitHub: www.github.com/ishmambd 
-- LinkedIn: www.linkedin.com/in/mdishmamjinan
+## 🚧 Projects
+
+### 🔹 **1. Processing Projects**
+- Geometric animations  
+- Interactive shapes  
+- Small physics simulations  
+- Creative motion sketches  
+
+### 🔹 **2. C Programming Projects**
+- Basic algorithms  
+- Loops, arrays, operators  
+- Engineering calculator programs  
+- Temperature & unit conversion tools  
+
+### 🔹 **3. Python Projects**
+- Beginner data processing  
+- Simple scripts  
+- Math/physics problem solvers  
+- Future: ML for engineering!
 
 ---
 
-Thanks for visiting my profile! 🚀  
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=6"/>
+</p>
+
+---
+
+## 📬 Contact
+
+- 📧 Personal: **ishmameducation@gmail.com**  
+- 🌏 LinkedIn: **www.linkedin.com/in/mdishmamjinan** 
+- ✨ Always learning, always improving!
+
+---
+
+### _“Engineering is not just calculations. It’s the art of solving real-world problems.”_
