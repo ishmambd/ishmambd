@@ -36,17 +36,7 @@
   <!-- AutoCAD -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="50"/>
 
-  <!-- Revit (BIM icon – closest official devicon replacement) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bim/bim-original.svg" width="50"/>
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-</p>
-
-Additional tools:**VS Code**, **BlueJ**, **PyCharm**, **NumPy**, **Matplotlib**
+Additional tools: **VS Code**, **BlueJ**, **PyCharm**, **NumPy**, **Matplotlib**
 
 ---
 
@@ -73,9 +63,9 @@ Additional tools:**VS Code**, **BlueJ**, **PyCharm**, **NumPy**, **Matplotlib**
 
 ## 📊 GitHub Stats
 
-![Ishmam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishmambd&show_icons=true&theme=tokyonight)
+![Ishmam's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishmambd&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishmambd&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishmambd&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ishmambd&theme=tokyonight)
 
@@ -84,7 +74,7 @@ Additional tools:**VS Code**, **BlueJ**, **PyCharm**, **NumPy**, **Matplotlib**
 ## 📬 Contact
 
 - 📧 Personal: **ishmameducation@gmail.com**  
-- 🌏 LinkedIn: **www.linkedin.com/in/mdishmamjinan** 
+- 🌏 LinkedIn: **www.linkedin.com/in/mdishmamjinan**  
 - ✨ Always learning, always improving!
 
 ---
