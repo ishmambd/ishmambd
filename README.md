@@ -24,8 +24,6 @@
 ### 💻 Programming & Tools
 
 <p align="left">
-  <!-- Processing -->
-  <img src="https://processing.org/img/processing3-logo.png" width="50"/>
 
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
@@ -33,10 +31,11 @@
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
-  <!-- AutoCAD -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="50"/>
+  <!-- Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 
-Additional tools: **VS Code**, **BlueJ**
+
+Additional tools: **VS Code**, **BlueJ**, **Jupyter Notebook**
 
 ---
 
