@@ -54,8 +54,15 @@ Additional tools: **VS Code**, **BlueJ**, **Jupyter Notebook**
 - Temperature & unit conversion tools  
 
 ### 🔹 **3. Python Projects**  
-- Simple scripts   
+- Simple scripts
+- Chatbot 
 - Future: ML for engineering!
+
+### 🔹 **4. Java Projects**  
+- basic algorithms
+- Greetings message
+- simple code
+- Calculator program
 
 ---
 
