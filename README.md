@@ -6,7 +6,7 @@
 ## 🏗️ About Me
 - 🎓 **Bachelor of Engineering (Honours) – Civil Engineering**, Macquarie University  
 - 💡 Interested in **Structural Engineering**, **Surveying**, **Construction Technology**, and **AI for Engineering**
-- 💻 I develop projects in **Processing**, **C**, and **Python**
+- 💻 I develop projects in **Processing**, **C**, **Java** and **Python**
 - 🎯 Goal: Become a high-performing engineer with strong computational and technical skills  
 - ✨ Currently preparing for **MATLAB**, **AutoCAD**, **Revit**, **CIVIL3D** and **Python for engineering**
 
